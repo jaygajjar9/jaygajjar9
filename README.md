@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Gajjar</h1>
 <h3 align="center">A passionate AI/ML developer from USA</h3>
 
-- 🌱 I’m currently learning **Python,ML**
+- 🌱 I’m currently learning **Python,ML & AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
